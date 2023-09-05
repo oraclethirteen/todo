@@ -3,3 +3,5 @@
 html5 - css3 - js - bootstrap - vite
 
 todo app with json fetching from a server
+
+![todo](./public/images/todo.png)
